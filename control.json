@@ -1,6 +1,6 @@
 {
-  "enabled": true,                  // Master switch, tanan mo OFF kung false
-  "growthAmount": 30,               // Default growth pellets
+  "enabled": true,
+  "growthAmount": 30,
   "allowDrop99": true,
   "allowMultiPellets": true,
   "allowMultiVirus": true,
