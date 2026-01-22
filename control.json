@@ -1,4 +1,11 @@
 {
-  "enabled": false
+  "enabled": true,
+  "growthAmount": 30,
+  "allowDrop99": true,
+  "allowMultiPellets": true,
+  "allowMultiVirus": true,
+  "allowMultiMothercell": true,
+  "allowShieldAntifreeze": true,
+  "allowAntiRecVirusFreeze": true,
+  "allowAntiRecMothercellFreeze": true
 }
-  
